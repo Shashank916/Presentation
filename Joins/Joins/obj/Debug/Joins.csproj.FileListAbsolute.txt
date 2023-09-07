@@ -1,0 +1,8 @@
+D:\Phase-2\Presentation\Joins\Joins\bin\Debug\Joins.exe.config
+D:\Phase-2\Presentation\Joins\Joins\bin\Debug\Joins.exe
+D:\Phase-2\Presentation\Joins\Joins\bin\Debug\Joins.pdb
+D:\Phase-2\Presentation\Joins\Joins\obj\Debug\Joins.csproj.AssemblyReference.cache
+D:\Phase-2\Presentation\Joins\Joins\obj\Debug\Joins.csproj.SuggestedBindingRedirects.cache
+D:\Phase-2\Presentation\Joins\Joins\obj\Debug\Joins.csproj.CoreCompileInputs.cache
+D:\Phase-2\Presentation\Joins\Joins\obj\Debug\Joins.exe
+D:\Phase-2\Presentation\Joins\Joins\obj\Debug\Joins.pdb
